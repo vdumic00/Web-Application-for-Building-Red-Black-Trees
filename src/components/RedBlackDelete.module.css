@@ -1,0 +1,21 @@
+.deleteContainer {
+  display: inline-block;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  margin: 20px;
+}
+
+.deleteField {
+  padding: 10px;
+  background-color: #cddeffac;
+  border-style: none;
+  border-radius: 2%;
+}
+
+.deleteButton {
+  padding: 10px;
+  border: 0px;
+  background-color: #7d85ba;
+  border-radius: 2%;
+}

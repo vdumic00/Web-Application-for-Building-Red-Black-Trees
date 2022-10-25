@@ -1,0 +1,28 @@
+.node {
+  border-radius: 50%;
+  position: absolute;
+  left: 400px;
+  top: 60px;
+  width: 55;
+  height: 55;
+  z-index: 99;
+}
+
+.nodeDataContainer {
+  display: flex;
+  justify-content: center;
+  border-radius: 100%;
+  width: 55px;
+  height: 55px;
+  text-align: center;
+  display: flex;
+  color: white;
+}
+
+.nodeData {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  color: white;
+}
